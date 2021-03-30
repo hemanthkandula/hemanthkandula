@@ -8,6 +8,7 @@ I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), w
 
 
 Passionate in solving real-world challenges with Machine learning, data science, and robotics.
+<hr>
 
 [comment]: <> (<h2  align="center">⚡ Technologies</h2>)
 <h2  align="center">🔨 Languages and Tools:</h2>
@@ -31,7 +32,9 @@ Passionate in solving real-world challenges with Machine learning, data science,
 
 <br>
 
+
 [comment]: <> (<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="icons/typescript/typescript.svg"></a>)
+
 
 
 <h2  align="center"> 📫 Reach me on </h2>
