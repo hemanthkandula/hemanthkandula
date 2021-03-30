@@ -1,6 +1,6 @@
 
 ## Hi there 👋 , I am [Hemanth](https://hemanthkandula.com/)! 😁  
-<h6 > (Open for Hiring) </h6>
+<h6 > (Open To Work) </h6>
 
 [comment]: <> (<h2  align="center">👨‍💻 Whoami </h2>)
 I am a machine learning researcher with almost 4 years of experience in the field of deep learning and healthcare. I am currently doing research at [Harvard Medical School](https://hms.harvard.edu/) in Cambridge, MA where I use Deep Learning to solve problems in healthcare. My current project is in unsupervised domain adaption in medical imaging.
