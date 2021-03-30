@@ -7,8 +7,9 @@ I am a machine learning researcher with almost 4 years of experience in the fiel
 I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning and NLP projects.- 📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf)
 
 
-Passionate in solving real-world challenges with Machine learning, data science, and robotics.
-<hr>
+ <samp> Passionate in solving real-world challenges with Machine learning, data science, and robotics. </samp>
+
+[comment]: <> (<hr>)
 
 [comment]: <> (<h2  align="center">⚡ Technologies</h2>)
 <h2  align="center">🔨 Languages and Tools:</h2>
@@ -51,7 +52,7 @@ Passionate in solving real-world challenges with Machine learning, data science,
 I am an enthusiastic person always loves to explore anything that excites me. Feel free to reach out to me about anything!
 
 
-<hr>
+[comment]: <> (<hr>)
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
