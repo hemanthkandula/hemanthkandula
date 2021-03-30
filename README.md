@@ -26,7 +26,7 @@ Passionate in solving real-world challenges with Machine learning, data science,
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="icons/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="icons/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="icons/docker/docker.svg" align="left" alt="docker" height='42px'/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="icons/aws/amazonaws.svg" align="left" alt="amazon_aws" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="icons/aws/Amazon_Web_Services_Logo.svg" align="left" alt="amazon_aws" height='42px'/> </a>
 
 <br>
 
