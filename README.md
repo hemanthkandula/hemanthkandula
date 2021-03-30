@@ -10,10 +10,11 @@ I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), w
 Passionate in solving real-world challenges with Machine learning, data science, and robotics.
 
 [comment]: <> (<h2  align="center">⚡ Technologies</h2>)
+<h2  align="center">🔨 Languages and Tools:</h2>
 
 [comment]: <> (<br>)
 
-### 🔨 Languages and Tools:
+[comment]: <> (### 🔨 Languages and Tools:)
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="icons/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="icons/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="icons/python/python.svg"></a>
