@@ -1,10 +1,10 @@
 
-## Hi there 👋 , I am [Hemanth](https://hemanthkandula/)! 😁  
+## Hi there 👋 , I am [Hemanth](https://hemanthkandula.com/)! 😁  
 <h6 > (Open for Hiring) </h6>
 
 [comment]: <> (<h2  align="center">👨‍💻 Whoami </h2>)
-I am a machine learning researcher with almost 4 years of experience in the field of deep learning and healthcare. I am currently doing research at Brigham And Women's Hospital, [Harvard Medical School](https://hms.harvard.edu/) in Cambridge, MA where I use Deep Learning to solve problems in healthcare. My current project is in unsupervised domain adaption in medical imaging.
-I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning, and NLP projects.- 📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf)
+I am a machine learning researcher with almost 4 years of experience in the field of deep learning and healthcare. I am currently doing research at [Harvard Medical School](https://hms.harvard.edu/) in Cambridge, MA where I use Deep Learning to solve problems in healthcare. My current project is in unsupervised domain adaption in medical imaging.
+I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning and NLP projects.- 📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf)
 
 
 Passionate in solving real-world challenges with Machine learning, data science, and robotics.
@@ -26,7 +26,7 @@ Passionate in solving real-world challenges with Machine learning, data science,
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="icons/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="icons/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="icons/docker/docker.svg" align="left" alt="docker" height='42px'/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="icons/aws/aws.svg" align="left" alt="aws" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="icons/aws/amazonaws.svg" align="left" alt="amazon_aws" height='42px'/> </a>
 
 <br>
 
