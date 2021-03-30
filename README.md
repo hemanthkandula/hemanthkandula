@@ -4,7 +4,7 @@
 
 [comment]: <> (<h2  align="center">👨‍💻 Whoami </h2>)
 I am a machine learning researcher with almost 4 years of experience in the field of deep learning and healthcare. I am currently doing research at [Harvard Medical School](https://hms.harvard.edu/) in Cambridge, MA where I use Deep Learning to solve problems in healthcare. My current project is in unsupervised domain adaption in medical imaging.
-I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning and NLP projects.- 📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf) 
+I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning and NLP projects.  📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf) 
  <br><samp> Passionate in solving real-world challenges with Machine learning, data science, and robotics. </samp>
 
 [comment]: <> (<hr>)
