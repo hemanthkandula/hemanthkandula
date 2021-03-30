@@ -3,10 +3,11 @@
 <h6 > (Open for Hiring) </h6>
 
 [comment]: <> (<h2  align="center">👨‍💻 Whoami </h2>)
-I am a machine learning researcher with almost 4 years of experience in the field of deep learning and healthcare. I am currently doing research at Harvard Medical School in Cambridge, MA where I use Deep Learning to solve problems in healthcare. My current project is in unsupervised domain adaption in medical imaging.
-Passionate in solving real-world challenges with Machine learning, data science, and robotics.
-I am also a CS graduate student at Tufts University, worked on deep Reinforcement Learning, and NLP projects.
+I am a machine learning researcher with almost 4 years of experience in the field of deep learning and healthcare. I am currently doing research at Brigham And Women's Hospital, [Harvard Medical School](https://hms.harvard.edu/) in Cambridge, MA where I use Deep Learning to solve problems in healthcare. My current project is in unsupervised domain adaption in medical imaging.
+I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning, and NLP projects.- 📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf)
 
+
+Passionate in solving real-world challenges with Machine learning, data science, and robotics.
 
 [comment]: <> (<h2  align="center">⚡ Technologies</h2>)
 
