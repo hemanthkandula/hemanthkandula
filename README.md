@@ -44,7 +44,7 @@ I am also a CS graduate student at [Tufts University](https://www.tufts.edu/), w
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/hemanthkandula"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/hemanthkandula"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <a target="_blank" href="https://twitter.com/hemanthkandula"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="mailto:hemanth.kandula@gmail.com?subject=Hello Hemanth, From GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 I am an enthusiastic person always loves to explore anything that excites me. Feel free to reach out to me about anything!
