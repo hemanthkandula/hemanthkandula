@@ -54,7 +54,7 @@ I am an enthusiastic person always loves to explore anything that excites me. Fe
 
 [comment]: <> (<hr>)
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+[comment]: <> (<h2  align="center">💻 Check Out My Repos ⬇️ </h2>)
 
 
 
