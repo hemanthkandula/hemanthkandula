@@ -3,10 +3,10 @@
 
 [comment]: <> (<h2  align="center">👨‍💻 Whoami </h2>)
 I am a machine learning researcher with 5+ years of academic and professional experience in the field of deep learning for NLP, Healthcare and Robotics.
-I'm a Staff Scientist at Raytheon BBN Technologies working on NLP in DARPA Projects. I am also currently doing research at [Harvard Medical School](https://hms.harvard.edu/) in Cambridge, MA  where I use Deep Learning to solve a few of the major unmet needs in Healthcare. In my recent project, I developed learning algorithms that facilitate the transfer of information through unsupervised and self-supervised model adaptation and generalization for biomedical imaging. (Published in Nature BME).
+I'm a Staff Scientist at Raytheon BBN Technologies working on NLP in DARPA Projects. In my previous research role at [Harvard Medical School](https://hms.harvard.edu/) in Cambridge, MA  where I use Deep Learning to solve a few of the major unmet needs in Healthcare. In my recent project, I developed learning algorithms that facilitate the transfer of information through unsupervised and self-supervised model adaptation and generalization for biomedical imaging. (Published in Nature BME).
  
-I am have completed my Master in CS at [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning and NLP projects.  📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf) 
- <br><samp> Enthusiastic in solving real-world challenges with Machine learning, Data Science, and Robotics. </samp>
+I did masters in CS from [Tufts University](https://www.tufts.edu/), worked on deep Reinforcement Learning and NLP projects.  📝 [Resume](https://hemanthkandula.com/docs/Resume_Hemanth_Kandula.pdf) 
+ <br><samp> Enthusiastic in solving real-world challenges with Machine learning, NLP, Computer Vision and Robotics. </samp>
 
 [comment]: <> (<hr>)
 
